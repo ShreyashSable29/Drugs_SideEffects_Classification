@@ -15,4 +15,5 @@ The project guidelines mention that we are expected to create a model that class
 
 After the implementation of the Logistic Regression, K-Nearest Neighbor (KNN), Random Forest, Decision Tree, and Gaussian Naive Bayes algorithms, the side effect of the drug was best modeled by the [Decision Tree classifier] without doing any scaling or standardization (Accuracy of 97.71%).
 
-https://user-images.githubusercontent.com/101463488/212400048-d73bd853-dd14-486a-86c3-83a7434e407f.png
+![212400048-d73bd853-dd14-486a-86c3-83a7434e407f](https://github.com/ShreyashSable29/Drugs_SideEffects_Classification/assets/125114741/5ae455da-7554-421c-881e-36bffac036bf)
+
